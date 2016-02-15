@@ -1,6 +1,6 @@
 Last Updated: February 15, 2016
 
-This privacy policy governs your use of the software application Oppy (“Application”) for mobile devices that was created by OM Software LLC. The Application is an arcade game with highscores and achievements.
+This privacy policy governs your use of the software application Oppy ("Application") for mobile devices that was created by OM Software LLC. The Application is an arcade game with highscores and achievements.
 
 What information does the Application obtain and how is it used?
 
@@ -47,7 +47,7 @@ Automatic Data Collection and Advertising
 
 We work with advertisers and third party advertising networks, who need to know how you interact with advertising provided in the Application which helps us keep the cost of the Application free. Advertisers and advertising networks use some of the information collected by the Application, including, but not limited to, the unique identification ID of your mobile device and your mobile telephone number. These third parties may also obtain anonymous information about other applications you’ve downloaded to your mobile device, the mobile websites you visit, your non-precise location information (e.g., your zip code), and other non- precise location information in order to help analyze and serve anonymous targeted advertising on the Application and elsewhere.
 
-If you’d like to opt-out from third party use of this type of information to help serve targeted advertising, please visit the section entitled “Opt-out” below.
+If you’d like to opt-out from third party use of this type of information to help serve targeted advertising, please visit the section entitled "Opt-out" below.
 
 
 What are my opt-out rights?
@@ -68,7 +68,7 @@ will respond in a reasonable time.
 
 Children
 
-We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at privacy@omsoftwarellc.com. We will delete such information from our files within a reasonable time. We take precaution and are proactive in ensuring compliance with the Children’s Online Privacy Protection Act (“COPPA”).
+We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at privacy@omsoftwarellc.com. We will delete such information from our files within a reasonable time. We take precaution and are proactive in ensuring compliance with the Children’s Online Privacy Protection Act ("COPPA").
 
 
 Security
@@ -83,7 +83,7 @@ This Privacy Policy may be updated from time to time for any reason. You are adv
 
 Your Consent
 
-By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information. 
+By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing," means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information. 
 
 
 Contact us
